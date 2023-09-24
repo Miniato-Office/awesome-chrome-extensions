@@ -67,6 +67,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 ## Personalize
 ## Photos
 ## Productivity
+* [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) - A personalised dashboard to help you get focused
 ## Shopping
 ## Social and Communication
 ## Travel
