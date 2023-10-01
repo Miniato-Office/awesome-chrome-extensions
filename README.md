@@ -68,6 +68,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 ## Photos
 ## Productivity
 * [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) - A personalised dashboard to help you get focused
+* [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller-vi/gaiceihehajjahakcglkhmdbbdclbnlf?hl=en) - Speed controller for HTML5 videos
 ## Shopping
 ## Social and Communication
 ## Travel
