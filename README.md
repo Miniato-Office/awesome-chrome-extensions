@@ -60,6 +60,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 ## Designer Tools
 ## Developer Tools
 * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) - Makes JSON easy to read
+* [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - The easiest way to identify fonts on web pages
 ## Education
 ## Fun
 ## Gaming
