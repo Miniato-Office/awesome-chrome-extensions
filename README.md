@@ -61,6 +61,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 ## Developer Tools
 * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) - Makes JSON easy to read
 * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - The easiest way to identify fonts on web pages
+* [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) - Identifies web technologies
 ## Education
 ## Fun
 ## Gaming
