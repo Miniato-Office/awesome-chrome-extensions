@@ -59,6 +59,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 ## Dark Theme
 ## Designer Tools
 ## Developer Tools
+* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) - Makes JSON easy to read
 ## Education
 ## Fun
 ## Gaming
