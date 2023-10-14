@@ -74,6 +74,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 ## Productivity
 * [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) - A personalised dashboard to help you get focused
 * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller-vi/gaiceihehajjahakcglkhmdbbdclbnlf?hl=en) - Speed controller for HTML5 videos
+* [Buster: Captcha Solver for Humans](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) - helps you to solve difficult captchas
 ## Shopping
 ## Social and Communication
 ## Travel
