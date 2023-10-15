@@ -75,7 +75,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 * [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) - A personalised dashboard to help you get focused
 * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller-vi/gaiceihehajjahakcglkhmdbbdclbnlf?hl=en) - Speed controller for HTML5 videos
 * [Buster: Captcha Solver for Humans](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) - helps you to solve difficult captchas
-* [Figma]([https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm](https://chrome.google.com/webstore/detail/figma/fkmaohpngenfoccdgceedjkfhkdcohmg?hl=en/)) - Attach Figma and FigJam files to your Google Calendar events and make every brainstorm, project kick off, and critique a jam.
 ## Shopping
 ## Social and Communication
 ## Travel
