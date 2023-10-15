@@ -30,27 +30,28 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 
 ---
 
-- [Awesome Chrome Extensions](#awesome-chrome-extensions)
-    - [Accessibility](#accessibility)
-    - [AI Powered](#ai-powered)
-    - [Business](#business)
-    - [Dark Theme](#dark-theme)
-    - [Designer Tools](#designer-tools)
-    - [Developer Tools](#developer-tools)
-    - [Education](#education)
-    - [Fun](#fun)
-    - [Gaming](#gaming)
-    - [Job Hunting](#job-hunting)
-    - [News and Weather](#news-and-weather)
-    - [Personalize](#personalize)
-    - [Photos](#photos)
-    - [Productivity](#productivity)
-    - [Shopping](#shopping)
-    - [Social and Communication](#social-and-communication)
-    - [Travel](#travel)
-    - [Writing](#writing)
- - [Contributing](#contributing)
- - [License](#license)
+- [Awesome Chrome Extensions ](#awesome-chrome-extensions-)
+  - [Accessibility](#accessibility)
+  - [AI Powered](#ai-powered)
+  - [Business](#business)
+  - [Dark Theme](#dark-theme)
+  - [Designer Tools](#designer-tools)
+  - [Developer Tools](#developer-tools)
+  - [Education](#education)
+  - [Fun](#fun)
+  - [Gaming](#gaming)
+  - [Job Hunting](#job-hunting)
+  - [News and Weather](#news-and-weather)
+  - [Personalize](#personalize)
+  - [Photos](#photos)
+  - [Productivity](#productivity)
+  - [Shopping](#shopping)
+  - [Social and Communication](#social-and-communication)
+  - [Travel](#travel)
+  - [Writing](#writing)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contributors](#contributors)
   
 ---
 ## Accessibility
@@ -78,6 +79,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 * [Figma](https://chrome.google.com/webstore/detail/figma/fkmaohpngenfoccdgceedjkfhkdcohmg) - Make every brainstorm, project kick off, and critique a jam.
 ## Shopping
 ## Social and Communication
+* [WA Bulk Message Sender](https://chrome.google.com/webstore/detail/wa-bulk-message-sender/fhkimgpddcmnleeaicdjggpedegolbkb)
 ## Travel
 ## Writing
 * [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en) - A Grammar Checker and an AI writing app
