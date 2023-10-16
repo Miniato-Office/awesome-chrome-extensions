@@ -64,7 +64,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) - Identifies web technologies
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Inspect the React component hierarchies in the Chrome Developer Tools.
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Enhances your browsing experience by running userscripts on websites.
-* [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) - MetaMask is an extension for accessing Ethereum enabled distributed applications, or "Dapps" in your browser!
+* [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) - MetaMask is an tool for accessing Ethereum enabled distributed applications, or "Dapps" in your browser!
 ## Education
 ## Fun
 ## Gaming
