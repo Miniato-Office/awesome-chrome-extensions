@@ -30,28 +30,27 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 
 ---
 
-- [Awesome Chrome Extensions ](#awesome-chrome-extensions-)
-  - [Accessibility](#accessibility)
-  - [AI Powered](#ai-powered)
-  - [Business](#business)
-  - [Dark Theme](#dark-theme)
-  - [Designer Tools](#designer-tools)
-  - [Developer Tools](#developer-tools)
-  - [Education](#education)
-  - [Fun](#fun)
-  - [Gaming](#gaming)
-  - [Job Hunting](#job-hunting)
-  - [News and Weather](#news-and-weather)
-  - [Personalize](#personalize)
-  - [Photos](#photos)
-  - [Productivity](#productivity)
-  - [Shopping](#shopping)
-  - [Social and Communication](#social-and-communication)
-  - [Travel](#travel)
-  - [Writing](#writing)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contributors](#contributors)
+- [Awesome Chrome Extensions](#awesome-chrome-extensions)
+    - [Accessibility](#accessibility)
+    - [AI Powered](#ai-powered)
+    - [Business](#business)
+    - [Dark Theme](#dark-theme)
+    - [Designer Tools](#designer-tools)
+    - [Developer Tools](#developer-tools)
+    - [Education](#education)
+    - [Fun](#fun)
+    - [Gaming](#gaming)
+    - [Job Hunting](#job-hunting)
+    - [News and Weather](#news-and-weather)
+    - [Personalize](#personalize)
+    - [Photos](#photos)
+    - [Productivity](#productivity)
+    - [Shopping](#shopping)
+    - [Social and Communication](#social-and-communication)
+    - [Travel](#travel)
+    - [Writing](#writing)
+ - [Contributing](#contributing)
+ - [License](#license)
   
 ---
 ## Accessibility
@@ -101,5 +100,3 @@ Awesome Chrome Extensions is licensed under the terms of Unlicense. Check out [L
     <img src="https://contrib.rocks/image?repo=Miniato-Office/awesome-chrome-extensions" alt="Contributors" />
   </a>
 </div>
-
-  
