@@ -67,6 +67,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Enhances your browsing experience by running userscripts on websites.
 * [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) - MetaMask is an tool for accessing Ethereum enabled distributed applications, or "Dapps" in your browser!
 * [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi) - Pesticides outlines each element to better see placement on the page.
+* [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies
 ## Education
 ## Fun
 ## Gaming
