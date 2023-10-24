@@ -55,6 +55,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 ---
 ## Accessibility
 ## AI Powered
+* [Careerflow AI LinkedIn Optimization and more](https://chrome.google.com/webstore/detail/careerflow-ai-linkedin-op/iadokddofjgcgjpjlfhngclhpmaelnli) - Optimize LinkedIn profile with AI
 ## Business
 ## Dark Theme
 ## Designer Tools
