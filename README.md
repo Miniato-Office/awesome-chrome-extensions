@@ -66,7 +66,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Inspect the React component hierarchies in the Chrome Developer Tools.
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Enhances your browsing experience by running userscripts on websites.
 * [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) - MetaMask is an tool for accessing Ethereum enabled distributed applications, or "Dapps" in your browser!
-* [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi) - Pesticides outlines each element to better see placement on the page.
+* [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi) - Pesticides outlines each HTML element to better see placement on the page.
 ## Education
 ## Fun
 ## Gaming
